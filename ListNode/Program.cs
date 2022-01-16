@@ -6,7 +6,7 @@ namespace ListNode
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
