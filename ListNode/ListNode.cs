@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 
-namespace ListNode
+namespace ListNodeTask
 {
     class ListNode
     {
